@@ -1,0 +1,26 @@
+body{
+color:red;
+font-size:26px;
+margin-left:10px;
+margin-top:30px;
+background-position:center;
+background-size:cover;
+}
+a{
+    border: 1px solid black;
+    padding: 10px 20px 30px 40px;
+    background-color: white;
+   font-size:20px;
+   width:400px;
+   border-radius:30px;
+   color:black;
+}
+
+
+
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
