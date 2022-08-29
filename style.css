@@ -16,11 +16,20 @@ a{
    color:black;
 }
 
-
+#backbtn{
+margin-top:500px;
+margin-left:440px;
+}
 
 
 .heading {
     font-size: 23px;
     width: 100%;
     margin: 0px;
+}
+canvas{
+background-color:white;
+outline-style: groove;
+outline-color:red;
+outline-width: 3px;
 }
